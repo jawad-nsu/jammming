@@ -1,9 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-http://comfortable-weather.surge.sh/
+the project is hosted here http://comfortable-weather.surge.sh/
 
-Using my app requires Spotify
-Authentication and if you don’t have a Spotify account, then I have made a demo video
+Using my app requires Spotify Authentication and if you don’t have a Spotify account, then I have made a demo video
 of it here - > http://tiny.cc/jammming
 
 ## Available Scripts
